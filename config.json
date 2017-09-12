@@ -1,0 +1,26 @@
+{
+  "cookies" : {"Hm_lvt_9ea605df687f067779bde17347db8645":"1489901261",
+                "c_secure_uid":"MTc4NTQz",
+                "c_secure_pass":"127cdc0445e56d98ff813b003e321b3b",
+                "c_secure_ssl":"bm9wZQ%3D%3D",
+                "c_secure_tracker_ssl":"bm9wZQ%3D%3D",
+                "c_secure_login":"bm9wZQ%3D%3D",
+                "_gat":"1",
+                "_ga":"GA1.2.1976582129.1492768374",
+                "_gid":"GA1.2.414211918.1505117756"
+  },
+  "cookies_str": "Hm_lvt_9ea605df687f067779bde17347db8645=1489901261; c_secure_uid=MTc4NTQz; c_secure_pass=127cdc0445e56d98ff813b003e321b3b; c_secure_ssl=bm9wZQ%3D%3D; c_secure_tracker_ssl=bm9wZQ%3D%3D; c_secure_login=bm9wZQ%3D%3D; _gat=1; _ga=GA1.2.1976582129.1492768374; _gid=GA1.2.414211918.1505117756",
+  "headers":{
+    "Accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+    "User-Agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+    "Host" : "bt.byr.cn",
+    "Referer" : "http://bt.byr.cn/index.php"
+  },
+  "url" : "http://bt.byr.cn/torrents.php?spstate=2&sort=8&type=desc",
+  "refresh_time" : 1,
+  "page_num" : 1,
+  "download_path" : "/byrbt",
+  "host" : "http://localhost:8080/",
+  "username" : "wurui",
+  "passwd" : "wr445566"
+}
